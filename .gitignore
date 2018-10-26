@@ -1,0 +1,7 @@
+.idea
+*.iml
+*-checkpoint.ipynb
+Test/
+weights/
+images/
+models/
